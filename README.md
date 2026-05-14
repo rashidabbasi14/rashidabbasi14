@@ -19,8 +19,9 @@ I am on the lookout for opportunities where I can leverage my deep industry know
 
 
 ## 💼 Experience
-
-- **Senior Software Engineer** at CodeNinja (April 2024 - Present)
+- **Consultant** at Techno Pvt Ltd (Nov 2025 - Present)
+  
+- **Senior Software Engineer** at CodeNinja (April 2024 - January 2026)
   - Developing scalable APIs, optimizing backend systems, and collaborating with international teams.
   - Enhancing efficiency with automated scripts and hands-on cloud technology.
   - Developed high-performance, scalable cloud-based applications using .NET, SQL Server, Azure, and React.
