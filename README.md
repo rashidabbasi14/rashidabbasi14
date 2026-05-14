@@ -1,6 +1,6 @@
 # Hi, I'm Rashid Abbasi 👋
 
-I’m a seasoned Senior Software Engineer with over five years of diverse experience across the banking sector and various project/product-based companies. My technical acumen spans a wide array of technologies including PHP Laravel, .NET, Vue.js, React.js, Node.js, Sockets, MySQL, and Oracle, amongst others. Recently, I’ve expanded my expertise to embrace the transformative potential of AI, utilizing tools like ChatGPT/GPT Pilot to enhance productivity and decision-making processes.
+I’m a seasoned Senior Software Engineer with over six years of diverse experience across the banking sector and various project/product-based companies. My technical acumen spans a wide array of technologies including PHP Laravel, .NET, Vue.js, React.js, Node.js, Sockets, MySQL, and Oracle, amongst others. Recently, I’ve expanded my expertise to embrace the transformative potential of AI, utilizing tools like ChatGPT/GPT Pilot to enhance productivity and decision-making processes.
 
 My journey in tech is driven by a profound curiosity and a continuous desire to learn and adapt. This mindset has been crucial in keeping pace with the rapid advancements in our field, particularly in the realms of artificial intelligence and machine learning.
 
